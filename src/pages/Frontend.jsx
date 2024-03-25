@@ -13,6 +13,7 @@ function Frontend() {
               <div className='card'>
                 <div className='card-inner'>
                     <h3>{item.name}</h3>
+                  
                 </div>
                 <h1>{item.grade}</h1>
               </div>   

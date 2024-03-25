@@ -16,7 +16,7 @@ function Home() {
         <div className='main-cards'>
             <div className='card'>
                 <div className='card-inner'>
-                    <h3>Product Design</h3>
+                    <h3>Product Design Track</h3>
                     <BsPeopleFill className='card_icon'/>
                 </div>
                 <h1>{Object.getOwnPropertyNames(products).length-1}</h1>
